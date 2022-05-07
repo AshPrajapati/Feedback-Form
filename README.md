@@ -29,14 +29,17 @@ HTML,CSS,BootStrap
 
 
 Screenshots:
+
 **Home Page**
 ![Screenshot 2022-05-07 191316](https://user-images.githubusercontent.com/66628943/167257148-c22047d0-642d-49e9-a598-72fad3f3edba.png)
 
 <hr>
+
 **Past Feedback Page**
 ![Screenshot 2022-05-07 191516](https://user-images.githubusercontent.com/66628943/167257215-33c4f3f5-abe9-4a82-a12c-d54aa0650340.png)
 
 <hr>
+
 ![Screenshot 2022-05-07 191448](https://user-images.githubusercontent.com/66628943/167257223-67d25e9a-67b5-4e25-8341-143c0c7368c8.png)
 
 ![Screenshot 2022-05-07 191537](https://user-images.githubusercontent.com/66628943/167257231-70c73d08-42f9-4c8d-84f6-091a91354cd5.png)
